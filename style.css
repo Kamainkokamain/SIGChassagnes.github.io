@@ -1,0 +1,100 @@
+/* GLOBAL CSS*/
+
+*{
+margin 0;
+padding 0;
+box-sizing: border-box;
+}
+
+html {
+font-size: 62.5%;
+}
+
+h1
+font-size: 2.6rem;
+}
+
+h2{
+font-size: 4.8rem;
+}
+
+h3{
+font-size: 3rem;
+}
+
+h4,
+h5{
+font-size: 2.8rem;
+}
+
+li{
+font-size: 2rem;
+}
+
+a{
+color: #ffffff;
+text-decoration: none;
+}
+
+body{
+font-family: 'Poppins', sans-serif;
+}
+	
+/* HEADER */
+
+.main-head{
+background: #f8bc1b;
+color: #ffffff;
+}
+
+nav{
+min-height: 10vh;
+display: flex;
+align-items: center;
+width: 90%;
+margin: auto;
+padding: 0.2rem;
+}
+
+nav ul{
+display: flex;
+flex: 1.5 1.5 55rem;
+justify-content: space-around;
+align-items: center;
+list-style: none;
+}
+
+#logo{
+	flex: 7rem;
+	min-height: 14vh;
+	background: url("image/logochassagnes.jpg");
+	background-position: left
+}
+
+/* HERO */
+.hero{
+min-height: 90vh;
+background: linear-gradient(rgb(0,0,0,0.6), transparent), url("image/leschassagnes.jpg");
+background-size: cover;
+background-position: bottom;
+color: #ffffff;
+display: flex;
+flex-direction: center;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+.hero h3{
+padding: 4rem;
+}
+
+button{
+	padding: 3rem 8 rem;
+	background: #f8bc1b;
+	color: #ffffff;
+	font-size: 2rem;
+	cursor: pointer;
+	border: none;
+	align-items: center;
+}

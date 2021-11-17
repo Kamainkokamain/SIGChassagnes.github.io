@@ -1,0 +1,55 @@
+body {
+ background-color: white; 
+ font-family: "popins", sans-serif; 
+ }
+h1 {
+ background-color: white; 
+ font-size: 400%; 
+ color: black; 
+ margin-left: 50px;
+ text-align: center;
+ align-items: center;
+ }
+h2 {
+ font-size: 80%; 
+ color: black; 
+ margin-left: 20px;
+ }
+ 
+h3 {
+font-size: 80%; 
+color: black; 
+margin-left: 20px;
+ }
+ 
+h4 {
+font-size: 80%; 
+color: black; 
+margin-left: 20px;
+ }
+ 
+h5 {
+font-size: 80%; 
+color: black; 
+margin-left: 20px;
+ }
+ 
+.libelle {
+font-size: 80%; 
+color: black; 
+margin-left: 40px;
+ }
+ 
+ 
+.classeee {
+font-size: 80%; 
+color: black; 
+margin-left: 40px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+
